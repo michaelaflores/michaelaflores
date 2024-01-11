@@ -16,20 +16,18 @@
   </h1>
 </div>
 
-<div align="center>
-  ---
-
 ### :man_technologist: About Me :
   I am a software engineering leader <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
-  - :telescope: I've built high-traffic e-commerce frontends, complex web applications, and designed the technical architecture of custom hardware integrated with iOS and web platforms
 
-  - :seedling: Exploring software design
+🔨 I've built high-traffic e-commerce frontends, complex web applications, and designed the technical architecture of custom hardware integrated with iOS and web platforms
+
+:seedling: Exploring software design
   
-  - 📝Sometimes I write new posts on Engineering and Product thoughts [here](https://michaelflores.io/blog)
+📝Sometimes I write new posts on Engineering and Product thoughts [here](https://michaelflores.io/blog)
 
-  - :zap: In my free time, I'm often either playing or watching basketball, or lost in a virtual world 
+:zap: In my free time, I'm often either playing or watching basketball, or lost in a virtual world 
 
-  - :mailbox:How to reach me: https://michaelflores.io/contact
+:mailbox:How to reach me: https://michaelflores.io/contact
 
 ---
 
