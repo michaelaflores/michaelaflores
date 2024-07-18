@@ -25,7 +25,7 @@
   
 📝Sometimes I write new posts on Engineering and Product thoughts [here](https://michaelflores.io/blog)
 
-:zap: In my free time, I'm often either playing or watching basketball, or lost in a virtual world 
+:zap: In my free time, I'm often either playing or watching basketball, lost in a virtual world, or working on https://staytuned.co
 
 :mailbox:How to reach me: https://michaelflores.io/contact
 
